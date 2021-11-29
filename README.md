@@ -1,1 +1,1 @@
-# In this repo you will learn to write a script that can generate a strong industry password. You will learn about the String module in Python and also the random module in python
+# In this repo you will learn to write a script that can generate a strong password that your best friend cannot crack. You will learn about the String module in Python, functions, while loops and also the random module in python
